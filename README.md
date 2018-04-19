@@ -12,3 +12,7 @@ ZCZC W04 Variables, Addresses, Pointers, Parameters, Get and Put, File (open rea
 ZCZC W05 Top, memory, and map
 
 ZCZC W06 Forking
+
+ZCZC W07 Thread
+
+ZCZC W08 Parent Child (PID Process Identification Number)
